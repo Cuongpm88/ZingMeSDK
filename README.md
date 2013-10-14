@@ -16,7 +16,7 @@ Source code for the SDK is also available on the link
 
 3. Run the Samples
 The SDK includes a ZingMeSDKTest sample that include all of features of SDK.
-4. Create a Facebook App
+4. Create a ZingMe App
 Configure a new Xcode Project
 In Xcode, create a new project, and select 'Single View Application' as shown below.
  
